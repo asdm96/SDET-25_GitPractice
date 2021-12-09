@@ -7,6 +7,7 @@ public class DemoTest1 {
 	public void Test1() {
 		System.out.println("User1_Test1");
 		System.out.println("Pull from other project");
+		System.out.println();
 	}
 
 }
