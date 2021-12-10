@@ -18,7 +18,7 @@ public class DemoTest {
 		System.out.println("User1_Test4_4Made Changes*********");
 		System.out.println("User2 from Akash");
 		System.out.println("User2 from AKash");
-		Assert.fail("Manual Failing");
+		Assert.fail("Manual Failing1");
 		
 		
 	}
