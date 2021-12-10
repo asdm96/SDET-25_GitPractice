@@ -1,12 +1,13 @@
 package DemoPractice;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
 /**
  * 
  * @author LENOVO
  *
  */
-public class DemoTest1 {
+public class DemoTest {
 	@Test
 	public void Test1() {
 		System.out.println("User1_Test1");
@@ -17,6 +18,9 @@ public class DemoTest1 {
 		System.out.println("User1_Test4_4Made Changes*********");
 		System.out.println("User2 from Akash");
 		System.out.println("User2 from AKash");
+		Assert.fail("Manual Failing");
+		
+		
 	}
 
 }
