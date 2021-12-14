@@ -9,7 +9,7 @@ public class Parameter {
 	public void demo(XmlTest xml) {
 		
 		System.out.println(xml.getParameter("browser"));
-		
+		System.out.println();
 	}
 
 }
