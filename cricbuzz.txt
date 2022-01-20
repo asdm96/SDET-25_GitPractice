@@ -1,0 +1,13 @@
+cricbuzz--bowler name with wicket
+//div[@id='innings_2']/descendant::div[@class='cb-col cb-col-100 cb-ltst-wgt-hdr']/descendant::a[text()=' James Anderson ']/parent::div[@class='cb-col cb-col-40']/following-sibling::div[@class='cb-col cb-col-8 text-right text-bold']
+//a[text()=' Mark Wood ']/parent::div[@class='cb-col cb-col-40']/following-sibling::div[@class='cb-col cb-col-8 text-right text-bold']
+
+all wickets
+//div[@class='cb-col cb-col-8 text-bold text-right']/parent::div/parent::div[@class='cb-col cb-col-100 cb-ltst-wgt-hdr']/descendant::div[@class='cb-col cb-col-8 text-right text-bold']
+
+
+amazon
+//a[text()='Mobile accessories']/parent::h3/following-sibling::ul/li
+
+cricbuzz mumbai indians
+//a[text()='Mumbai Indians']/parent::td/following-sibling::td[@class='cb-srs-pnts-td text-bold']
